@@ -1,0 +1,56 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Antonio Podgorski",
+      "email": "antonio@domob.me",
+      "senha": "123123"
+    },
+    {
+      "id": 2,
+      "nome": "Cláudio Leal (backupme)",
+      "email": "claudio@claudio.com",
+      "senha": "111111"
+    },
+    {
+      "id": 3,
+      "nome": "Robson",
+      "email": "rob@son.com",
+      "senha": "123"
+    }
+  ],
+  "projetos": [
+    {
+      "descricao": "Projeto",
+      "id": 3
+    },
+    {
+      "descricao": "Novo",
+      "id": 1
+    },
+    {
+      "descricao": "Aaaaaa",
+      "id": 4
+    },
+    {
+      "descricao": "Bsusbwusbsuabsushsushsnsiwjsjsushshs",
+      "id": 5
+    }
+  ],
+  "tarefas": [
+    {
+      "descricao": "Aa",
+      "concluido": false,
+      "projetoId": 1,
+      "usuarioId": 2,
+      "id": 1
+    },
+    {
+      "descricao": "Aaa",
+      "concluido": false,
+      "projetoId": 2,
+      "usuarioId": 2,
+      "id": 2
+    }
+  ]
+}

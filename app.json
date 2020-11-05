@@ -1,0 +1,12 @@
+{
+  "name": "siccum_projetos",
+  "displayName": "siccum_projetos",
+  "expo": {
+    "name": "siccum_projetos",
+    "slug": "siccum_projetos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
